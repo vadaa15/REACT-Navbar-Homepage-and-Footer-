@@ -1,1 +1,37 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
 
+body{
+    background:#f4f4f4;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.page{
+    text-align:center;
+    padding:70px 20px;
+}
+
+.page h1{
+    color:#333;
+    margin-bottom:20px;
+    font-size:40px;
+}
+
+.page p{
+    font-size:20px;
+    color:#555;
+    line-height:1.6;
+}
+
+.page ul{
+    list-style:none;
+    margin-top:20px;
+}
+
+.page li{
+    font-size:20px;
+    margin:10px 0;
+}
